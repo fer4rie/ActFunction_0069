@@ -30,4 +30,4 @@ int main()
     output();
     cout << "Hasil Penjumlahan = " << Jumlah(8,6,9) << endl;
 }//selesai
-//8
+//9
